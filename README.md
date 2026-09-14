@@ -61,3 +61,7 @@ To expose the images as props instead of constants, lift `BEFORE`/`AFTER` into t
 ## License
 
 MIT.
+
+---
+
+Made by [Q Manning](https://qmanning.com) · [Source on GitHub](https://github.com/qmanning/split-view-homing-handle) · [See it live in the Labs](https://qmanning.com/labs/split-view-homing-handle)
